@@ -16,16 +16,23 @@
               "Google Plus": "",
               "Dribbble": "",
               "Instagram": "",
-              "Youtube": ""
+              "Youtube": "",
+              "github": ""
             }
           ]
         }
+      ],
+      "date": "",
+      "category": "",
+      "tags": [
+        ""
       ],
       "video": [
         {
           "host": "",
           "url": "",
-          "duration": ""
+          "duration": "",
+          "lang": ""
         }
       ],
       "slide": [
