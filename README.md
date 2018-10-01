@@ -23,4 +23,4 @@ yarn run lint
 
 ## LICENSE
 
-Devtalks &copy; MIT
+[2018 (MIT) Devtalks](https://github.com/kvnol/devtalks/blob/master/LICENSE) &copy; Kevin Oliveira
