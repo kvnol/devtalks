@@ -20,3 +20,7 @@ yarn run build
 ```
 yarn run lint
 ```
+
+## LICENSE
+
+Devtalks &copy; MIT
