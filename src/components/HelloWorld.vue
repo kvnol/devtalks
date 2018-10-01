@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <nav><a href="/">world</a> <a href="/brazil">brazil</a></nav>
     <p>
       For guide and recipes on how to configure / customize this project,<br>
       check out the

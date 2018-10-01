@@ -1,0 +1,39 @@
+{
+  "talks": [
+    {
+      "name": "",
+      "author": [
+        {
+          "name": "",
+          "role": "",
+          "company": "",
+          "site": "",
+          "social": [
+            {
+              "E-mail": "",
+              "Twitter": "",
+              "Facebook": "",
+              "Google Plus": "",
+              "Dribbble": "",
+              "Instagram": "",
+              "Youtube": ""
+            }
+          ]
+        }
+      ],
+      "video": [
+        {
+          "host": "",
+          "url": "",
+          "duration": ""
+        }
+      ],
+      "slide": [
+        {
+          "host": "",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
