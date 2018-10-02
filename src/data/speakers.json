@@ -1,0 +1,23 @@
+{
+  "speakers": [
+    {
+      "name": "",
+      "username": "",
+      "role": "",
+      "company": "",
+      "site": "",
+      "social": [
+        {
+          "email": "",
+          "twitter": "",
+          "facebook": "",
+          "gplus": "",
+          "dribbble": "",
+          "instagram": "",
+          "youtube": "",
+          "github": ""
+        }
+      ]
+    }
+  ]
+}
