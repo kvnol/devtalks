@@ -2,30 +2,18 @@
   "talks": [
     {
       "name": "",
-      "author": [
-        {
-          "name": "",
-          "role": "",
-          "company": "",
-          "site": "",
-          "social": [
-            {
-              "E-mail": "",
-              "Twitter": "",
-              "Facebook": "",
-              "Google Plus": "",
-              "Dribbble": "",
-              "Instagram": "",
-              "Youtube": "",
-              "github": ""
-            }
-          ]
-        }
+      "authorUser": "",
+      "category": [
+        ""
       ],
-      "date": "",
-      "category": "",
       "tags": [
         ""
+      ],
+      "event": [
+        { 
+          "name": "",
+          "date": ""
+        }
       ],
       "video": [
         {
